@@ -6,9 +6,10 @@ import useFetchData from "../../hooks/useFetchData";
 import Loader from "../../components/Loader/Loading";
 import Error from "../../components/Error/Error";
 
+
 const Doctors = () => {
-  const [query, setQuery] = useState(""); // search query
-  const [debounceQuery, setDebounceQuery] = useState(""); // debounced query
+  const [query, setQuery] = useState("");
+  const [debounceQuery, setDebounceQuery] = useState("");
 
   // Debounce: update query after 700ms of no typing
   useEffect(() => {
@@ -81,8 +82,8 @@ const Doctors = () => {
           <div className="xl:w-[470px] mx-auto">
             <h2 className="heading text-center">What our patients say</h2>
             <p className="text__para text-center">
-              World-class care for everyone. Our health system offers
-              unmatched, expert health care.
+              World-class care for everyone. Our health system offers unmatched,
+              expert health care.
             </p>
           </div>
           <Testimonial />
