@@ -1,0 +1,262 @@
+[
+  {
+    "email": "dr.cardiologistmale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Cardiologist Male",
+    "phone": 9876543200,
+    "photo": "https://example.com/images/cardiologist_male.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      "MBBS",
+      "MD - Cardiologist"
+    ],
+    "experiences": [
+      "5 years at City Hospital",
+      "3 years at MedCare"
+    ],
+    "bio": "Expert cardiologist with years of experience.",
+    "about": "Passionate about providing top-notch care in cardiologist medicine.",
+    "timeSlots": [
+      "10:00 AM",
+      "2:00 PM",
+      "4:00 PM"
+    ],
+    "isApproved": "approved"
+  },
+  {
+    "email": "dr.cardiologistfemale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Cardiologist Female",
+    "phone": 9876543201,
+    "photo": "https://example.com/images/cardiologist_female.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      "MBBS",
+      "MD - Cardiologist"
+    ],
+    "experiences": [
+      "4 years at National Hospital",
+      "2 years at MedLife"
+    ],
+    "bio": "Experienced female cardiologist specialist.",
+    "about": "Dedicated to quality patient care in the field of cardiologist.",
+    "timeSlots": [
+      "11:00 AM",
+      "3:00 PM",
+      "5:00 PM"
+    ],
+    "isApproved": "approved"
+  },
+  {
+    "email": "dr.dermatologistmale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Dermatologist Male",
+    "phone": 9876543202,
+    "photo": "https://example.com/images/dermatologist_male.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      "MBBS",
+      "MD - Dermatologist"
+    ],
+    "experiences": [
+      "5 years at City Hospital",
+      "3 years at MedCare"
+    ],
+    "bio": "Expert dermatologist with years of experience.",
+    "about": "Passionate about providing top-notch care in dermatologist medicine.",
+    "timeSlots": [
+      "10:00 AM",
+      "2:00 PM",
+      "4:00 PM"
+    ],
+    "isApproved": "approved"
+  },
+  {
+    "email": "dr.dermatologistfemale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Dermatologist Female",
+    "phone": 9876543203,
+    "photo": "https://example.com/images/dermatologist_female.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      "MBBS",
+      "MD - Dermatologist"
+    ],
+    "experiences": [
+      "4 years at National Hospital",
+      "2 years at MedLife"
+    ],
+    "bio": "Experienced female dermatologist specialist.",
+    "about": "Dedicated to quality patient care in the field of dermatologist.",
+    "timeSlots": [
+      "11:00 AM",
+      "3:00 PM",
+      "5:00 PM"
+    ],
+    "isApproved": "approved"
+  },
+  {
+    "email": "dr.pediatricianmale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Pediatrician Male",
+    "phone": 9876543204,
+    "photo": "https://example.com/images/pediatrician_male.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      "MBBS",
+      "MD - Pediatrician"
+    ],
+    "experiences": [
+      "5 years at City Hospital",
+      "3 years at MedCare"
+    ],
+    "bio": "Expert pediatrician with years of experience.",
+    "about": "Passionate about providing top-notch care in pediatrician medicine.",
+    "timeSlots": [
+      "10:00 AM",
+      "2:00 PM",
+      "4:00 PM"
+    ],
+    "isApproved": "approved"
+  },
+  {
+    "email": "dr.pediatricianfemale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Pediatrician Female",
+    "phone": 9876543205,
+    "photo": "https://example.com/images/pediatrician_female.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      "MBBS",
+      "MD - Pediatrician"
+    ],
+    "experiences": [
+      "4 years at National Hospital",
+      "2 years at MedLife"
+    ],
+    "bio": "Experienced female pediatrician specialist.",
+    "about": "Dedicated to quality patient care in the field of pediatrician.",
+    "timeSlots": [
+      "11:00 AM",
+      "3:00 PM",
+      "5:00 PM"
+    ],
+    "isApproved": "approved"
+  },
+  {
+    "email": "dr.neurologistmale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Neurologist Male",
+    "phone": 9876543206,
+    "photo": "https://example.com/images/neurologist_male.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Neurologist",
+    "qualifications": [
+      "MBBS",
+      "MD - Neurologist"
+    ],
+    "experiences": [
+      "5 years at City Hospital",
+      "3 years at MedCare"
+    ],
+    "bio": "Expert neurologist with years of experience.",
+    "about": "Passionate about providing top-notch care in neurologist medicine.",
+    "timeSlots": [
+      "10:00 AM",
+      "2:00 PM",
+      "4:00 PM"
+    ],
+    "isApproved": "approved"
+  },
+  {
+    "email": "dr.neurologistfemale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Neurologist Female",
+    "phone": 9876543207,
+    "photo": "https://example.com/images/neurologist_female.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Neurologist",
+    "qualifications": [
+      "MBBS",
+      "MD - Neurologist"
+    ],
+    "experiences": [
+      "4 years at National Hospital",
+      "2 years at MedLife"
+    ],
+    "bio": "Experienced female neurologist specialist.",
+    "about": "Dedicated to quality patient care in the field of neurologist.",
+    "timeSlots": [
+      "11:00 AM",
+      "3:00 PM",
+      "5:00 PM"
+    ],
+    "isApproved": "approved"
+  },
+  {
+    "email": "dr.orthopedicmale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Orthopedic Male",
+    "phone": 9876543208,
+    "photo": "https://example.com/images/orthopedic_male.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Orthopedic",
+    "qualifications": [
+      "MBBS",
+      "MD - Orthopedic"
+    ],
+    "experiences": [
+      "5 years at City Hospital",
+      "3 years at MedCare"
+    ],
+    "bio": "Expert orthopedic with years of experience.",
+    "about": "Passionate about providing top-notch care in orthopedic medicine.",
+    "timeSlots": [
+      "10:00 AM",
+      "2:00 PM",
+      "4:00 PM"
+    ],
+    "isApproved": "approved"
+  },
+  {
+    "email": "dr.orthopedicfemale@example.com",
+    "password": "$2b$12$tS89wGFb9Cmf1rU63dfMaOXvJTWeLekniASEe8UN4axjG5rCX/W..",
+    "name": "Dr. Orthopedic Female",
+    "phone": 9876543209,
+    "photo": "https://example.com/images/orthopedic_female.jpg",
+    "ticketPrice": 500,
+    "role": "doctor",
+    "specialization": "Orthopedic",
+    "qualifications": [
+      "MBBS",
+      "MD - Orthopedic"
+    ],
+    "experiences": [
+      "4 years at National Hospital",
+      "2 years at MedLife"
+    ],
+    "bio": "Experienced female orthopedic specialist.",
+    "about": "Dedicated to quality patient care in the field of orthopedic.",
+    "timeSlots": [
+      "11:00 AM",
+      "3:00 PM",
+      "5:00 PM"
+    ],
+    "isApproved": "approved"
+  }
+]
